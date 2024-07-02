@@ -8,6 +8,7 @@
 		<servlet-name>s1</servlet-name>
 		<servlet-class>com.web_Scraper.WebScraperServlet</servlet-class>
 	</servlet>
+	
 	<servlet-mapping>
 		<servlet-name>s1</servlet-name>
 		<url-pattern>/scrape</url-pattern>
